@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+	 <clark>
+            <Filename>ResurrectionRemix-M-v5.7.1-20160730-clark.zip</Filename>
+            <BuildUrl
+            	id="build"
+            	title="LatestBuild"
+            	description="Download Latest Build">https://www.androidfilehost.com/?fid=24659351692116015</BuildUrl>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://basketbuild.com/devs/resurrectionremix/clark</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <BanksGappsUrl
+            	id="banks_gapps"
+            	title="BaNkS Dynamic GApps"
+            	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl>
+	</clark>
+    </Stable>
+</SlimOTA>
