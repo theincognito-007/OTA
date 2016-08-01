@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <osprey>
-            <Filename>ResurrectionRemix-M-v5.7.2-20160802-osprey.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.2-20160801-osprey.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
