@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <clark>
-            <Filename>ResurrectionRemix-M-v5.7.1-20160730-clark.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.2-20160731-clark.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://www.androidfilehost.com/?fid=24659351692116015</BuildUrl>
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/clark/ResurrectionRemix-M-v5.7.2-20160731-clark.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -21,11 +21,11 @@
             	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl>
 	</clark>
         <osprey>
-            <Filename>ResurrectionRemix-M-v5.7.1-20160730-osprey.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.2-20160731-osprey.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/osprey/ResurrectionRemix-M-v5.7.1-20160730-osprey.zip</BuildUrl>
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/osprey/ResurrectionRemix-M-v5.7.2-20160731-osprey.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -40,11 +40,11 @@
             	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl>
 	</osprey>
         <surnia>
-            <Filename>ResurrectionRemix-M-v5.7.1-20160730-surnia.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.2-20160731-surnia.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ResurrectionRemix-M-v5.7.1-20160730-surnia.zip</BuildUrl>
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/surnia/ResurrectionRemix-M-v5.7.2-20160731-surnia.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -59,11 +59,11 @@
             	description="Download BaNkS latest GApps">http://downloads.hostingsharedbox.com/nathanchance/GApps/banks_dynamic_gapps-6.x.x-20160730.zip</BanksGappsUrl>
 	</surnia>
         <lux>
-            <Filename>ResurrectionRemix-M-v5.7.1-20160730-lux.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.2-20160731-lux.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/lux/ResurrectionRemix-M-v5.7.1-20160730-lux.zip</BuildUrl>
+            	description="Download Latest Build">https://basketbuild.com/uploads/devs/resurrectionremix/lux/ResurrectionRemix-M-v5.7.2-20160731-lux.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
