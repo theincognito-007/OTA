@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <osprey>
-            <Filename>ResurrectionRemix-M-v5.7.2-20160801-osprey.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160808-osprey.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">http://qc4.androidfilehost.com/dl/OR5QglsJCTGNvK7NjZAASg/1470292264/24591000424951493/ResurrectionRemix-M-v5.7.2-20160801-osprey.zip</BuildUrl>
+            	description="Download Latest Build">https://de1.androidfilehost.com/dl/8EZt6D2lf5kdtOo9MPL9vw/1470860632/24591000424952973/ResurrectionRemix-M-v5.7.3-20160808-osprey.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
